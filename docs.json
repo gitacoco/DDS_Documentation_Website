@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guidelines",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Brand Guidelines",
             "pages": [
               "introduction",
               "quickstart",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Visual Guidelines",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Components",
         "groups": [
           {
             "group": "API Documentation",
@@ -83,7 +83,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:acoedesign@providence.org"
       }
     ],
     "primary": {
